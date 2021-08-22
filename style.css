@@ -1,0 +1,33 @@
+body {
+    background-color: darkturquoise;
+    text-align: center;
+    font-size: 40px;
+    font-family:serif;
+    font-weight: 150;
+}
+
+li {
+    display: inline;
+ margin-right: 50px;
+    color: black;
+    font-family: fantasy;
+}
+
+#videos:hover {
+    
+background: linear-gradient(DarkTurquoise,IndianRed,DarkTurquoise);
+  color: white;
+}
+
+
+#contact:hover {
+    
+background: linear-gradient(DarkTurquoise,IndianRed,DarkTurquoise);
+  color: white;
+}
+
+#email:hover {
+    color: black
+    font-size: 200;
+}
+
