@@ -50,4 +50,85 @@ li {
 
 #imageop {
     border-radius: 12px;
+    width: 1000;
+}
+
+#titleisgood {
+    font-size: 1000;
+}
+
+#emailop {
+    background-color: darkturquoise;
+    border: none;
+    color: darkblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 8px;
+    font-style: oblique;
+}
+
+#emailop:hover {
+    background-color: black;
+    border: none;
+    color: cadetblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 53px;
+    border-radius: 12px;
+}
+
+#videosop {
+    background-color: darkturquoise;
+    border: none;
+    color: darkblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 8px;
+    font-style: oblique;
+}
+
+#videosop:hover {
+    background-color: black;
+    border: none;
+    color: cadetblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 53px;
+    border-radius: 12px;
+}
+
+#yt {
+    background-color: palevioletred;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 8px;
+    font-style: oblique;
+}
+
+#mail {
+    background-color: white;
+    border: none;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 8px;
+    font-style: oblique;
 }
